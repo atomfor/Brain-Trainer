@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="start">START</string>
+    <string name="text_editText">Введите ваше имя</string>
+    <string name="text_tost_main">Это поле должно быть заполнено</string>
+    <string name="game_over">НАЧАТЬ ЗАНОВО</string>
+    <string name="nameGame">ТРЕНАЖЁР ДЛЯ МОЗГА</string>
+</resources>
